@@ -29,6 +29,3 @@ Evaluate business performance through sales and profit analysis.
 ## Key Insights
 - Revenue varies across different months and seasons..
 - Higher discounts may negatively impact profit margins.
-
-- Pandas
-- Matplotlib
