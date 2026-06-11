@@ -33,7 +33,5 @@ Evaluate business performance through sales and profit analysis.
 ## Key Insights
 
 * Revenue varies across different months and seasons.
-* A small number of products contribute significantly to total sales.
 * Higher discounts may reduce profit margins.
-* Profitability differs across categories and regions.
 
