@@ -1,10 +1,7 @@
 # Task5 - Sales Analysis
 
-## Problem Statement
-Analyze the Superstore Sales Dataset to evaluate business performance, identify revenue trends, determine top-selling products, and analyze profitability.
-
 ## Objective
-Evaluate business performance through sales and profit analysis.
+Analyze business performance
 
 ## Dataset Details
 
