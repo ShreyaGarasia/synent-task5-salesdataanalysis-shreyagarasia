@@ -10,7 +10,7 @@ Evaluate business performance through sales and profit analysis.
 
 ## Dataset Details
 
-* **Dataset:** Superstore Sales Dataset
+* **Dataset:** Superstore Orders Dataset(kaggle)
 * **Domain:** Business Analytics
 * **Records:** 51,290
 * **Features:** Sales, Profit, Product, Category, Region, Discount, Order Date
