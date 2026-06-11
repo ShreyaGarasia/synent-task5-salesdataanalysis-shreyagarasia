@@ -12,6 +12,11 @@ Analyze business performance
 | Records | 51,290 |
 | Features | Sales, Profit, Product, Category, Region, Discount, Order Date |
 
+## Tasks:
+- Monthly revenue trends
+- Top-selling products
+- Profit analysis
+
 ## Approach
 - Analyzed monthly revenue trends
 - Identified top-selling products
