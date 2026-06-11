@@ -1,4 +1,4 @@
-# synent-task5-salesanalysis-shreyagarasia
+# Task5 - Sales Analysis
 
 ## Problem Statement
 
