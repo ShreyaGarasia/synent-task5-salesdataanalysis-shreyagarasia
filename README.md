@@ -7,7 +7,7 @@ Analyze business performance
 
 | Attribute | Value |
 |------------|--------|
-| Dataset | Superstore Sales Dataset |
+| Dataset | Superstore Orders Dataset |
 | Domain | Business Analytics |
 | Records | 51,290 |
 | Features | Sales, Profit, Product, Category, Region, Discount, Order Date |
